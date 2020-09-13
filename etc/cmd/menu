@@ -1,0 +1,26 @@
+<<< local docker >>>=
+0=up
+1=start
+2=stop
+3=remove
+
+<<< local >>>=
+10=login-mysql
+11=migration
+12=db-dump
+
+<<< ec-cube >>>=
+20=bash
+21=create-oauth-key
+22=eccube-install
+23=plugin-install
+24=insert-dummy-data
+
+<<< api >>>=
+30=regist-oauth-client
+31=token-oauth
+32=request-api
+
+<<< other >>>=
+90=api-document
+91=generate-db-schema
